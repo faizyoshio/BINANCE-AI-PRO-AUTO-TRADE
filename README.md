@@ -191,27 +191,6 @@ Project ini bersifat eksperimental dan ditujukan untuk dokumentasi teknis, pengu
 
 ---
 
-## Repository Structure / Struktur Repository
-
-```text
-.
-├── README.md
-└── assets/
-    ├── screenshot-01.png
-    ├── screenshot-02.png
-    ├── screenshot-03.png
-    ├── screenshot-04.png
-    ├── screenshot-05.png
-    ├── screenshot-06.png
-    ├── screenshot-07.png
-    ├── screenshot-08.png
-    ├── screenshot-09.png
-    ├── screenshot-10.png
-    ├── screenshot-11.png
-    ├── screenshot-12.png
-    └── screenshot-13.png
-```
-
 ---
 
 ## Gallery / Galeri Lengkap
