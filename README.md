@@ -179,6 +179,64 @@ Gunakan API key Binance dengan permission **Spot Trading saja**. Jangan pernah m
 
 ---
 
+## Testing Period / Periode Uji Coba
+
+| Item | Value |
+|---|---|
+| Testing duration | 7 days / 168 hours |
+| Session start | 2026-05-28 21:19 UTC |
+| Session end | 2026-06-04 21:19 UTC |
+| Market | Binance Spot USDT |
+| Test balance | $10 USDT |
+| Fund allocation | 100% test allocation |
+| Result status | In progress / final result pending |
+
+**EN:** The auto trading workflow is tested for **7 days** using a test balance of **$10 USDT** with **100% fund allocation**. Final trading results, including PnL, trade history, TP/SL outcomes, and screenshots, will be added after the 7-day testing period is completed.
+
+**ID:** Workflow auto trading ini diuji coba selama **7 hari** menggunakan saldo test **$10 USDT** dengan **alokasi dana 100%**. Hasil akhir trading, termasuk PnL, riwayat trade, hasil TP/SL, dan screenshot, akan ditambahkan setelah periode uji coba 7 hari selesai.
+
+---
+
+## Live Test Status Update / Pembaruan Status Uji Coba Live
+
+| Item | Value |
+|---|---|
+| Session start | 2026-05-28 21:19 UTC |
+| Session end | 2026-06-04 21:19 UTC |
+| Duration | 7 days / 168 hours |
+| Active pair | INJ/USDT |
+| Latest shown price | $5.544 |
+| Latest shown position status | +0.53% from entry |
+| Watcher process | Running |
+| Notifier process | Running |
+| Result status | In progress / final result pending |
+
+**EN:** The live Spot USDT test session has been extended to **7 days**. The watcher and notifier processes are shown as active, and the system will monitor TP, SL, drawdown, session duration, and status updates during the testing period. Final trading results will be updated after the test session is completed.
+
+**ID:** Sesi uji coba live Spot USDT telah diperpanjang menjadi **7 hari**. Proses watcher dan notifier terlihat aktif, dan sistem akan memantau TP, SL, drawdown, durasi sesi, serta update status selama periode uji coba. Hasil akhir trading akan diperbarui setelah sesi uji coba selesai.
+
+| 7-Day Session Active | Process Status |
+|---|---|
+| ![7-Day Session Active](assets/screenshot-14.png) | ![Process Status](assets/screenshot-15.png) |
+
+---
+
+## Credit Usage / Penggunaan Credit
+
+| Item | Value |
+|---|---|
+| Total credit limit | 10,000,000 |
+| Credit used | < 5,793,540 |
+| Credit remaining | > 4,206,460 |
+| Usage percentage | < 57.94% |
+| Remaining percentage | > 42.06% |
+
+**EN:** This auto trading test used less than **5,793,540 credits out of 10,000,000**, meaning the usage stayed below **57.94%** of the available credit limit.
+
+**ID:** Pengujian auto trading ini menggunakan credit kurang dari **5.793.540 dari total 10.000.000**, sehingga penggunaan masih di bawah **57,94%** dari batas credit yang tersedia.
+
+---
+
 ## Disclaimer / Peringatan
 
 ### English
@@ -190,6 +248,27 @@ This project is experimental and intended for technical documentation, automatio
 Project ini bersifat eksperimental dan ditujukan untuk dokumentasi teknis, pengujian otomasi, serta riset trading dengan manajemen risiko. Trading kripto memiliki risiko tinggi. Tidak ada strategi, indikator, confidence score, model AI, atau sistem otomatis yang dapat menjamin profit. Gunakan dengan risiko pribadi.
 
 ---
+
+## Repository Structure / Struktur Repository
+
+```text
+.
+├── README.md
+└── assets/
+    ├── screenshot-01.png
+    ├── screenshot-02.png
+    ├── screenshot-03.png
+    ├── screenshot-04.png
+    ├── screenshot-05.png
+    ├── screenshot-06.png
+    ├── screenshot-07.png
+    ├── screenshot-08.png
+    ├── screenshot-09.png
+    ├── screenshot-10.png
+    ├── screenshot-11.png
+    ├── screenshot-12.png
+    └── screenshot-13.png
+```
 
 ---
 
@@ -220,3 +299,8 @@ Project ini bersifat eksperimental dan ditujukan untuk dokumentasi teknis, pengu
 ![Screenshot 12](assets/screenshot-12.png)
 
 ![Screenshot 13](assets/screenshot-13.png)
+
+
+![Screenshot 14](assets/screenshot-14.png)
+
+![Screenshot 15](assets/screenshot-15.png)
