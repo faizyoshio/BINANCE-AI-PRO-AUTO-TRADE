@@ -300,7 +300,13 @@ Project ini bersifat eksperimental dan ditujukan untuk dokumentasi teknis, pengu
 
 ![Screenshot 13](assets/screenshot-13.png)
 
-
 ![Screenshot 14](assets/screenshot-14.png)
 
 ![Screenshot 15](assets/screenshot-15.png)
+
+
+## License
+
+This project is licensed under the MIT License.
+
+This project is experimental and does not guarantee trading profit. Users are fully responsible for any trading risk, API usage, and financial loss.
